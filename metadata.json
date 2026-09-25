@@ -1,0 +1,6 @@
+{
+  "name": "CryptoVol Radar - Máy Quét Khối Lượng Đột Biến & Lướt Sóng",
+  "description": "Nền tảng phát hiện khối lượng giao dịch bất thường theo thời gian thực, nhận diện xu hướng tăng giá và tín hiệu vào lệnh lướt sóng ngắn hạn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
